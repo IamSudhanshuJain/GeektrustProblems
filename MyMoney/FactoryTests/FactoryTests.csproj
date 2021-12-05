@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyMoney\MyMoneySolution.csproj" />
+    <ProjectReference Include="..\MyMoneySolution\MyMoneySolution.csproj" />
   </ItemGroup>
 
 </Project>
