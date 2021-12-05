@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyMoney/bin
+/MyMoney/.vs/MyMoneySolution
+/.vs
+/MyMoney/FactoryTests/bin/Debug
+/MyMoney/FactoryTests/obj
+/MyMoney/MyMoneySolution/bin
+/MyMoney/MyMoneySolution/obj/Debug
+/MyMoney/MyMoneySolution/obj/Release/net5.0
+/MyMoney/MyMoneySolution/obj

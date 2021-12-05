@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WaterManagement/WaterManagement/.vs/WaterManagement
+/WaterManagement/WaterManagement/bin/Debug/net5.0
+/WaterManagement/WaterManagement/obj
+/WaterManagement/WaterManagementProcessorTests/bin
+/WaterManagement/WaterManagementProcessorTests/obj
