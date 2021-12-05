@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyMoneySolution": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
