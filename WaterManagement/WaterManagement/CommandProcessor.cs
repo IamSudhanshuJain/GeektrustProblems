@@ -1,4 +1,4 @@
-﻿using MyMoneySolution.Constants;
+﻿using WaterManagement.Constants;
 using System;
 using WaterManagement.Interfaces;
 

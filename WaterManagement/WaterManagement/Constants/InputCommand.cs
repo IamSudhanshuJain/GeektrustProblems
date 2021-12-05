@@ -1,4 +1,4 @@
-﻿namespace MyMoneySolution.Constants
+﻿namespace WaterManagement.Constants
 {
     public static class InputCommand
     {
