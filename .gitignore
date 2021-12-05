@@ -3,15 +3,3 @@
 ################################################################################
 
 /.vs
-/MyMoney/.sonarqube
-/MyMoney/.vs/MyMoneySolution
-/MyMoney/bin
-/MyMoney/FactoryTests/bin/Debug
-/MyMoney/FactoryTests/obj
-/MyMoney/MyMoneySolution/bin
-/MyMoney/MyMoneySolution/obj
-/WaterManagement/WaterManagementProcessorTests/obj
-/WaterManagement/WaterManagement/obj
-/WaterManagement/WaterManagement/.vs/WaterManagement
-/WaterManagement/WaterManagement/bin/Debug/net5.0
-/WaterManagement/WaterManagementProcessorTests/bin
