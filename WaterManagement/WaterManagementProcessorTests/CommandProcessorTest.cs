@@ -1,10 +1,5 @@
-using MyMoneySolution;
-using MyMoneySolution.Constants;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
 using System.Text;
 using WaterManagement;
-using WaterManagement.Interfaces;
 using Xunit;
 
 namespace WaterManagementProcessorTests
