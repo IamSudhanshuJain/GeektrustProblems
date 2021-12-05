@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WaterManagement": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
