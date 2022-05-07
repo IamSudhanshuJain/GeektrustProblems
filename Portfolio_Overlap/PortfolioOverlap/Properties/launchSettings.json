@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyMoneySolution": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\MyApp\\Portfolio_Overlap\\PortfolioOverlap\\sample_io\\input.txt"
+    }
+  }
+}
